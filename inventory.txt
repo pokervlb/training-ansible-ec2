@@ -1,2 +1,0 @@
-172.31.0.90
-# here you should put your private IP's for slaves where you would deploy your sources
